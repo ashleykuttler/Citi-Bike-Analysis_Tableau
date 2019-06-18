@@ -1,1 +1,0 @@
-password = 'KoKu4810$$'
